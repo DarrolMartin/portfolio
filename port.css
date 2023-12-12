@@ -1,1 +1,32 @@
-{}
+
+Body
+
+h1
+ {
+    background-color: #3498db; /* Background color for the horizontal line */
+    height: 50px; /* Height of the horizontal line */
+    width: 100%; /* Full width across the page */
+    color:greenyellow ;
+    line-height: 50px; /* text height*/
+       }
+h2
+{
+ background-color: red; /* Background color for the horizontal line */
+ height: 250px; /* Height of the horizontal line */
+ width: 100%; /* Full width across the page */
+ text-align: right;
+ color:greenyellow ;
+ line-height: 50px;
+}
+
+
+
+
+
+
+
+    .inline-container {
+        display: inline; /* Make it an inline-level element */
+        border: 1px solid #ccc; /* Just for visualization */
+        padding: 10px; /* Just for visualization */
+}
