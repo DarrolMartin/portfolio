@@ -8,16 +8,26 @@ h1
     width: 100%; /* Full width across the page */
     color:greenyellow ;
     line-height: 50px; /* text height*/
-       }
+     margin-bottom: 0px;
+}
 h2
 {
  background-color: red; /* Background color for the horizontal line */
- height: 250px; /* Height of the horizontal line */
+ height: 200px; /* Height of the horizontal line */
  width: 100%; /* Full width across the page */
- text-align: right;
+ text-align:right;
  color:greenyellow ;
- line-height: 50px;
+ line-height: 320px;
+ margin-top:0px;
 }
+h3
+{background-color: grey; /* Background color for the horizontal line */
+    height: 200px; /* Height of the horizontal line */
+    width: 100%; /* Full width across the page */
+    text-align:right;
+    color:greenyellow ;
+    line-height: 320px;
+    margin-top:0%;}
 
 
 
